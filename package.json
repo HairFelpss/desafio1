@@ -1,0 +1,17 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "express": "^4.16.4",
+    "nunjucks": "^3.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
